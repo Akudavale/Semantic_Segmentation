@@ -69,9 +69,6 @@ The training process runs for a predefined number of epochs. Loss values for bot
 ### Evaluation
 After training, the script computes and prints the mean IoU and pixel accuracy for both validation and test datasets.
 
-## License
-This code is provided for educational purposes and may be used under the terms of the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 ### DeepLabV3:
 The model is based on the DeepLabV3 architecture as described in DeepLabV3: Rethinking Atrous Convolution for Semantic Image Segmentation.
